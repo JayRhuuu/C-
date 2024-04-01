@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string
 
 #define PRESIDENT1 "Jane"
 #define PRESIDENT2 "Asie"
