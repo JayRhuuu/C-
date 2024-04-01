@@ -1,1 +1,1 @@
-C++ program (example)
+C++ program (testing)
