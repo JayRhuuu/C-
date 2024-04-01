@@ -1,1 +1,1 @@
-E-voting System (C++)
+C++ program
